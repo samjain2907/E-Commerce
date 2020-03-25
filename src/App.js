@@ -1,9 +1,14 @@
 import React from "react";
 import Layout from "./containers/Layout/layout";
+import "./App.css";
 
 class App extends React.Component {
   render() {
-    return <Layout />;
+    return (
+      <div className="top">
+        <Layout />
+      </div>
+    );
   }
 }
 

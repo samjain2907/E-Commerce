@@ -6,3 +6,27 @@
   background: rgb(8, 81, 105);
   color: white;
 }
+
+.login {
+  background-color: rgb(59, 167, 143); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+.cart {
+  background-color: rgb(139, 44, 135); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}

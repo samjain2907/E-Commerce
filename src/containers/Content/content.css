@@ -1,13 +1,14 @@
 .main {
   text-align: center;
   margin-top: 100px;
-  background: lightblue;
-  margin-left: 470px;
-  margin-right: 470px;
+  background: lightcoral;
+  margin-left: 700px;
+  margin-right: 700px;
 }
 
 .inner {
   margin-bottom: 100px;
+  margin-top: 100px;
 }
 
 .content {
